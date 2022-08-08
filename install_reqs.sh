@@ -56,3 +56,4 @@ sudo apt install -y libgc1c2
 sudo apt install -y libllvm10 
 sudo apt install -y libobjc-9-dev 
 sudo apt install -y libobjc4 
+sudo apt install -y libuser1-dev
